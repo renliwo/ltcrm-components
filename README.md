@@ -4,6 +4,9 @@
 ## Introduction
 Why to build this? For one thing, you can develope your components here by collaborating your workmates. Anyone can share his or her code.For another, any component you maked can be published as a independent unit . when you have deved one component, you can delpoy it to npm just by running npm publish shell.
 
+## why called soryu
+see more : [太极生两仪，两仪生四象](https://my.oschina.net/wanjubang/blog/701843)
+
 ### Usage
 
 ```
